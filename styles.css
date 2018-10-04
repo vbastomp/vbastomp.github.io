@@ -1,0 +1,17 @@
+#links {
+    list-style-type: none;
+	font-size: 20px;
+	margin-left: 5%;
+}
+
+#linksDiv {
+    display: flex;
+    justify-content: left;
+	font-size: 30px;
+	color: white;
+}
+
+#logo {
+	max-width: 600px;
+	margin-bottom: 5%;
+}
